@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aathavanmp&label=Profile%20views&color=0e75b6&style=flat" alt="aathavanmp" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
-
 - 🔭 I’m currently working as a Python Developer at Cleareye.ai
 - 💡 Skilled in designing scalable backend systems using Hexagonal Architecture, Domain-Driven Design, and Dependency Injection
 - 🛠️ Experienced with Flask, FastAPI, SQLAlchemy, PostgreSQL, NiFi, Docker, and Kubernetes
