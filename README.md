@@ -1,59 +1,88 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](http://aathavanmp.io)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aadhavan</h1>
-<h3 align="center">Python Developer | REST API Specialist | Hexagonal Architecture Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b2a41&height=180&section=header&text=Aadhavan%20M%20P&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20%26%20AI%20Engineer&descAlignY=58&descSize=18" alt="Aadhavan M P - Python Backend and AI Engineer" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathavanmp&label=Profile%20views&color=0e75b6&style=flat" alt="aathavanmp" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=FinTech+compliance+%C2%B7+Document+intelligence;FastAPI+%C2%B7+LangGraph+%C2%B7+PostgreSQL;Hexagonal+Architecture+%C2%B7+Domain-Driven+Design" alt="Typing animation: FinTech compliance, document intelligence, FastAPI, LangGraph, PostgreSQL, hexagonal architecture" />
 
-- 🔭 I’m currently working as a Python Developer at Cleareye.ai
-- 💡 Skilled in designing scalable backend systems using Hexagonal Architecture, Domain-Driven Design, and Dependency Injection
-- 🛠️ Experienced with Flask, FastAPI, SQLAlchemy, PostgreSQL, NiFi, Docker, and Kubernetes
-- 📊 Created and automated Power BI dashboards for product KPIs and HR analytics
-- 📫 How to reach me: **aadhavan1359@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aadhavan-m-p-80a922223" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/aadhavan-m-p-80a922223"><img src="https://img.shields.io/badge/LinkedIn-Aadhavan_M_P-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aadhavan1359@gmail.com"><img src="https://img.shields.io/badge/Email-aadhavan1359%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=AathavanMP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aathavanmp&show_icons=true&locale=en&layout=compact" alt="aadhavanmp" /></p>
+## 👋 About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aathavanmp&show_icons=true&locale=en" alt="aadhavanmp" /></p>
+I'm a **Python Backend & AI Engineer** at **Cleareye.AI**, building FinTech compliance and document-intelligence systems. I design scalable backends with Hexagonal Architecture, Domain-Driven Design and Dependency Injection, and pair them with LLM-based agents where they add real value.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aathavanmp&" alt="aadhavanmp" /></p>
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **RailLens** <br/> ![Status](https://img.shields.io/badge/repo-private-lightgrey?style=flat) | Conversational Indian Railway journey planner: direct and split-journey search, nearby-station expansion, Tatkal advisor, waitlist-confirmation prediction and AI route recommendation. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) |
+| **AaraOS** <br/> ![Status](https://img.shields.io/badge/repo-local-lightgrey?style=flat) | Voice-enabled personal AI assistant with an orchestrator, memory and pluggable agents for email, GitHub, PDF reading, resume analysis and system monitoring. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-agents-0e75b6?style=flat) |
+
+## 💼 Experience
+
+**Python Developer, Cleareye.AI**
+- Build backend services for FinTech compliance and document intelligence using Flask, FastAPI, SQLAlchemy, PostgreSQL and Apache NiFi.
+- Package and deploy services with Docker and Kubernetes.
+- Created and automated Power BI dashboards for product KPIs and HR analytics.
+
+### 📈 Measurable impact
+
+| Before | After | Area |
+| :-- | :-- | :-- |
+| ~10 seconds | **~1 second** | Audit event processing |
+| ~7 days | **< 0.5 day** | Environment setup |
+
+## 🧰 Tech Stack
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" alt="Python, FastAPI, Flask" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+
+**AI / LLM**<br/>
+<img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+
+**Databases & data pipelines**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
+<img src="https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat&logo=apachenifi&logoColor=white" alt="Apache NiFi" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,git,linux" alt="Docker, Kubernetes, Nginx, GitHub Actions, Git, Linux" />
+
+## 🏗️ Architecture & Engineering Practices
+
+- **Hexagonal Architecture (ports and adapters)** keeps domain logic independent of frameworks and infrastructure.
+- **Domain-Driven Design** with explicit use cases, and **Dependency Injection** for testable services.
+- **REST API design** with FastAPI and Flask, backed by SQLAlchemy.
+- **CI with GitHub Actions** and containerised, repeatable environments.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AathavanMP&show_icons=true&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=AathavanMP&layout=compact&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=AathavanMP&hide_border=true" alt="GitHub streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AathavanMP/AathavanMP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AathavanMP/AathavanMP/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AathavanMP/AathavanMP/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## 🏆 Recognition & Contact
+
+Open to conversations about backend, AI and FinTech engineering.
+
+- 📫 [aadhavan1359@gmail.com](mailto:aadhavan1359@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/aadhavan-m-p-80a922223)
