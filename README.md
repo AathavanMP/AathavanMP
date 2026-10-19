@@ -1,88 +1,207 @@
-<div align="center">
+ <!-- Replace the contents of your GitHub profile README.md with this file. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b2a41&height=180&section=header&text=Aadhavan%20M%20P&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20%26%20AI%20Engineer&descAlignY=58&descSize=18" alt="Aadhavan M P - Python Backend and AI Engineer" width="100%" />
+<!-- ==================== ANIMATED HEADER ==================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=FinTech+compliance+%C2%B7+Document+intelligence;FastAPI+%C2%B7+LangGraph+%C2%B7+PostgreSQL;Hexagonal+Architecture+%C2%B7+Domain-Driven+Design" alt="Typing animation: FinTech compliance, document intelligence, FastAPI, LangGraph, PostgreSQL, hexagonal architecture" />
+<p align="center">
+  <img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" width="100%" alt="Coding animation" />
+</p>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Aadhavan M.P.</h1>
 
-<a href="https://linkedin.com/in/aadhavan-m-p-80a922223"><img src="https://img.shields.io/badge/LinkedIn-Aadhavan_M_P-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:aadhavan1359@gmail.com"><img src="https://img.shields.io/badge/Email-aadhavan1359%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=AathavanMP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<h3 align="center">
+  Python Backend & AI Engineer | FinTech Compliance | Document Intelligence
+</h3>
 
-</div>
+<p align="center">
+  <a href="https://github.com/AathavanMP">
+    <img src="https://komarev.com/ghpvc/?username=AathavanMP&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Backend%20Engineering-3776AB?logo=python&logoColor=white" alt="Python Backend Engineering" />
+  <img src="https://img.shields.io/badge/AI-Agentic%20Systems-7B61FF?logo=openai&logoColor=white" alt="Agentic AI" />
+</p>
 
-## 👋 About
+---
 
-I'm a **Python Backend & AI Engineer** at **Cleareye.AI**, building FinTech compliance and document-intelligence systems. I design scalable backends with Hexagonal Architecture, Domain-Driven Design and Dependency Injection, and pair them with LLM-based agents where they add real value.
+## 👨‍💻 About Me
+
+I'm a Python Backend & AI Engineer with 3+ years of experience building production-grade backend systems, event-driven microservices, and AI-powered applications.
+
+Currently working at **Cleareye.AI** on ClearTrade, an AI-powered trade finance compliance platform.
+
+- Backend development with Python, FastAPI, Flask, and SQLAlchemy.
+- Agentic AI systems using LangGraph, RAG, MCP, and local LLMs.
+- Event-driven architecture with RabbitMQ, retries, and dead-letter queues.
+- Document intelligence using Azure OCR, LayoutLM, and computer vision.
+- Scalable architecture using Hexagonal Architecture, DDD, and Dependency Injection.
+- Database performance optimization, query tuning, and indexing.
+
+📍 Trivandrum, Kerala, India
+
+📧 **Email:** [aadhavan1359@gmail.com](mailto:aadhavan1359@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/aadhavan-m-p-80a922223)
+
+💻 **GitHub:** [AathavanMP](https://github.com/AathavanMP)
+
+---
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **RailLens** <br/> ![Status](https://img.shields.io/badge/repo-private-lightgrey?style=flat) | Conversational Indian Railway journey planner: direct and split-journey search, nearby-station expansion, Tatkal advisor, waitlist-confirmation prediction and AI route recommendation. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) |
-| **AaraOS** <br/> ![Status](https://img.shields.io/badge/repo-local-lightgrey?style=flat) | Voice-enabled personal AI assistant with an orchestrator, memory and pluggable agents for email, GitHub, PDF reading, resume analysis and system monitoring. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-agents-0e75b6?style=flat) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚆 RailLens</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Railway%20Planner-0B84F3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="RailLens project logo" />
+      </p>
+      <p align="center">
+        <b>AI-Powered Indian Railway Journey Planner</b>
+      </p>
+      <p>
+        An agentic AI application that helps users explore multi-leg railway journeys using natural-language queries.
+      </p>
+      <ul>
+        <li>Agent orchestration with LangGraph and Ollama.</li>
+        <li>RAG with ChromaDB for grounded responses.</li>
+        <li>MCP tools for train search, PNR, and fare lookups.</li>
+        <li>FastAPI, PostgreSQL, and asynchronous SQLAlchemy.</li>
+        <li>Hexagonal Architecture and DDD.</li>
+      </ul>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" alt="RailLens technologies" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AaraOS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Local%20Assistant-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AaraOS project logo" />
+      </p>
+      <p align="center">
+        <b>Fully Local AI Assistant</b>
+      </p>
+      <p>
+        A privacy-focused AI voice assistant designed to run locally without cloud API calls.
+      </p>
+      <ul>
+        <li>Local LLM inference with Ollama.</li>
+        <li>Two-phase RAG with ChromaDB for long-term memory.</li>
+        <li>Speech recognition using faster-whisper.</li>
+        <li>Text-to-speech using Piper.</li>
+        <li>Extensible plugin architecture.</li>
+      </ul>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,fastapi,docker" alt="AaraOS technologies" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 💼 Experience
+---
 
-**Python Developer, Cleareye.AI**
-- Build backend services for FinTech compliance and document intelligence using Flask, FastAPI, SQLAlchemy, PostgreSQL and Apache NiFi.
-- Package and deploy services with Docker and Kubernetes.
-- Created and automated Power BI dashboards for product KPIs and HR analytics.
+## 💼 Professional Experience
 
-### 📈 Measurable impact
+### Cleareye.AI — Product Engineer (Python Backend & AI)
 
-| Before | After | Area |
-| :-- | :-- | :-- |
-| ~10 seconds | **~1 second** | Audit event processing |
-| ~7 days | **< 0.5 day** | Environment setup |
+<text>April 2024 – Present | Trivandrum, India</text>
 
-## 🧰 Tech Stack
+Working on ClearTrade, an AI-powered trade finance compliance platform.
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask" alt="Python, FastAPI, Flask" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+| Achievement | Impact |
+|---|---|
+| MariaDB indexing and audit consumer optimization | Reduced processing time from approximately 10 seconds to 1 second |
+| Automated client environment seeding | Reduced setup from roughly 7 days to under half a day |
+| RabbitMQ event-driven validation | Added retries and dead-letter queues for resilient processing |
+| Document intelligence | Integrated Azure OCR, LayoutLM, and LLM fallback |
+| Signature verification | Combined YOLO, CycleGAN, and ResNet18 metric learning |
+| Compliance rule engine | Built pluggable operators and AML/TBML risk scoring |
+| Architecture modernization | Migrated core services to Hexagonal Architecture and DDD |
 
-**AI / LLM**<br/>
-<img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+---
 
-**Databases & data pipelines**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
-<img src="https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat&logo=apachenifi&logoColor=white" alt="Apache NiFi" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+## 🛠️ Languages and Tools
 
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,git,linux" alt="Docker, Kubernetes, Nginx, GitHub Actions, Git, Linux" />
+### Backend Engineering
 
-## 🏗️ Architecture & Engineering Practices
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,redis&perline=6" alt="Backend technologies" />
+</p>
 
-- **Hexagonal Architecture (ports and adapters)** keeps domain logic independent of frameworks and infrastructure.
-- **Domain-Driven Design** with explicit use cases, and **Dependency Injection** for testable services.
-- **REST API design** with FastAPI and Flask, backed by SQLAlchemy.
-- **CI with GitHub Actions** and containerised, repeatable environments.
+`Python` `FastAPI` `Flask` `Flask-RESTX` `REST APIs` `Async Python` `SQLAlchemy` `Alembic` `Pydantic` `Pytest` `JWT` `Keycloak`
 
-## 📊 GitHub Stats
+### AI, LLM & Document Intelligence
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=6" alt="AI technologies" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AathavanMP&show_icons=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=AathavanMP&layout=compact&hide_border=true" alt="Top languages" />
+`LLM Integration` `RAG` `LangGraph` `LangChain` `MCP` `Ollama` `ChromaDB` `Embeddings` `Azure OCR` `LayoutLM` `YOLO` `CycleGAN` `ResNet18` `Seldon`
 
-<img src="https://streak-stats.demolab.com?user=AathavanMP&hide_border=true" alt="GitHub streak" />
+### Databases & Messaging
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AathavanMP/AathavanMP/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AathavanMP/AathavanMP/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AathavanMP/AathavanMP/output/github-snake.svg" width="100%" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&perline=6" alt="Database and messaging technologies" />
+</p>
 
-</div>
+`MariaDB` `MySQL` `PostgreSQL` `RabbitMQ` `Redis` `MinIO` `Apache NiFi` `Query Optimization` `Indexing` `Database Migrations`
 
-## 🏆 Recognition & Contact
+### Cloud & DevOps
 
-Open to conversations about backend, AI and FinTech engineering.
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,linux&perline=6" alt="Cloud and DevOps technologies" />
+</p>
 
-- 📫 [aadhavan1359@gmail.com](mailto:aadhavan1359@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/aadhavan-m-p-80a922223)
+`Docker` `Kubernetes (EKS)` `AWS` `Azure DevOps CI/CD` `Git` `Kibana` `APM`
+
+### Architecture & Engineering Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-005571?style=flat-square" alt="Hexagonal Architecture" />
+  <img src="https://img.shields.io/badge/Domain--Driven%20Design-0A7EA4?style=flat-square" alt="Domain-Driven Design" />
+  <img src="https://img.shields.io/badge/Microservices-6C63FF?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-00897B?style=flat-square" alt="Event-driven architecture" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-455A64?style=flat-square" alt="Dependency Injection" />
+  <img src="https://img.shields.io/badge/Unit%20of%20Work-795548?style=flat-square" alt="Unit of Work" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AathavanMP&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AathavanMP&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AathavanMP&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+</p>
+
+---
+
+## 🏆 Recognition
+
+**Award of Appreciation — Cleareye.AI | October 2025**
+
+Recognized for delivery under tight deadlines and contributions acknowledged by clients and leadership.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/aadhavan-m-p-80a922223">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AathavanMP">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:aadhavan1359@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building reliable backends. Bringing AI into production. Solving real-world problems.</i>
+</p>
